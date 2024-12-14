@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+}
+header{
+    margin-top: 30px;
+}
+.ong{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+select{
+    background-color: white;
+    border: none;
+    color: orangered;
+}
+button{
+    width: 140px;
+    height: 45px;
+    background-color: #F04037;
+    border: none;
+    color: white;
+    border-radius: 7px;
+}
+.chap{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.s1 img{
+    width: 230px;
+    height: 450px;
+}
+.s1{
+    margin: 40px 140px;
+    display: flex;
+    gap: 169px;
+}
+.s1text input{
+    width: 320px;
+    padding: 10px;
+}
+.s1text{
+    width: 430px;
+    height: 400px;
+    margin-top: 59px;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.s1text p{
+    margin-bottom: 20px;
+}
+.s2{
+    height: 330px;
+    background-color: #5454D4;
+}
+.s2 .container p{
+    color: white;
+    width: 500px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+.text img{
+    margin-top: 80px;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+}
+.s3t{
+    width: 520px;
+    height: 600px;
+}
+.s3t p{
+    margin-bottom: 20px;
+}
+.tt{
+    margin: 0 20px;
+}
+.tt p{
+    margin-top: 17px;
+}
+.s3{
+    margin: 50px 270px;
+}
+.ota{
+    display: flex;
+    gap: 50px;
+}
+.ota img{
+    width: 320px;
+    height: 500px;
+    margin-left: 200px;
+}
+.uu{
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+.uuu{
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+.s4img{
+    margin-left: 50px;
+}
+.s4ota{
+    display: flex;
+}
+.s4t{
+    width: 430px;
+    margin-left: 200px;
+    margin-top: 150px;
+}
+.s4t p{
+    font-size: 22px;
+    color: #696871;
+}
+.s5t{
+    width: 430px;
+    margin: 100px 100px;
+}
+.s5t p{
+    color: #696871;
+    font-size: 22px;
+}
+.s5t button{
+    margin-top:28px;
+}
+.s5ota{
+    margin-top: 100px;
+    display: flex;
+}
+.s5ota img{
+    width: 320px;
+    height: 500px;
+    margin-left: 200px;
+}
+.vid{
+    height: 790px;
+    background-image: url(./img/Video.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.s7 .container p{
+    color: #696871;
+    font-size: 22px;
+    width: 450px;
+    text-align: center;
+    margin: 20px auto;
+}
+.s7t{
+    text-align: center;
+}
+
+.f-ong{
+    display: flex;
+    align-items: center;
+    gap: 27px;
+}
+footer{
+   margin: 100px 0 30px;
+}
+.f-ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.f-ch{
+    display: flex;
+    gap: 25px;
+}
